@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 plugin_identifier = "prettygcode2026"
 plugin_package = "octoprint_prettygcode"
 plugin_name = "PrettyGCode 2026"
-plugin_version = "1.2.4.1.quantenkosmos"
+plugin_version = "1.2.4.1+quantenkosmos"
 plugin_description = "A GCode visualizer - Quantenkosmos Patched"
 plugin_author = "Kragrathea (original), Quantenkosmos (patched)"
 plugin_url = "https://github.com/Kragrathea/OctoPrint-PrettyGCode" # Original repo
